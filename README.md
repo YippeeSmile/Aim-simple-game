@@ -1,6 +1,4 @@
-# Aim-simple-game
-
-**[Ссылка на проект](https://yippeesmile.github.io/Aim-simple-game/)** 
+# [Aim-simple-game](https://yippeesmile.github.io/Aim-simple-game/)
 
 ### Игрa "Aim Game" с 3мя экранами
 
